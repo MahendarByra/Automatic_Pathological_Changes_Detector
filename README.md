@@ -11,8 +11,5 @@ test -20% {normal,covid19,pneumonia}<br>
 
 # Data Preprocessing
 "Raw_Data" folder has the data before preprocessing(non-uniform data) of size 2 GB.<br>
-"Preprocessed_Data" has the data afer preprocessing(uniform data with dimensions 224x224x3) of size 113MB.<br>
-"data_conversion.py" is used for this preprocessing.<br>
-
-# Data Agumentation
-Not yet started.
+"Preprocessed_Data_vgg" has the data afer preprocessing(uniform data with dimensions 224x224x3) of size 113MB.<br>
+"Data_Preprocessing"  folder has the python files for Data preprocessing.<br>
