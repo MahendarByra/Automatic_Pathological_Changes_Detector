@@ -13,3 +13,7 @@ test -20% {normal,covid19,pneumonia}<br>
 "Raw_Data" folder has the data before preprocessing(non-uniform data) of size 2 GB.<br>
 "Preprocessed_Data_vgg" has the data afer preprocessing(uniform data with dimensions 224x224x3) of size 113MB.<br>
 "Data_Preprocessing"  folder has the python files for Data preprocessing.<br>
+
+# Results
+Among the three models , the InceptionV3 model performed very well.<br>
+Some optimization techniques are used on Inception V3 to further increase its performance.
